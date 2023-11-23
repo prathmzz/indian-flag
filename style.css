@@ -1,0 +1,28 @@
+#flag{
+    height: 600px;
+    width: 900px;
+    border: 5px solid ;
+}
+a > div{
+    height: 200px;
+    margin: 0px;
+}
+#orange{
+    background-color: orange;
+}
+#white{
+    background-color: white;
+}
+#green{
+    background-color: green;
+}
+#chakra{
+    margin-left: 350px;
+    height: 200px;
+    width: 200px;
+    
+}
+img{
+    height: 200px;
+    width: ;
+}
